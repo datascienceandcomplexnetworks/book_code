@@ -1,0 +1,289 @@
+Country Code,Country Name English,Country Fullname English,Country Abbrevation,Cty Comments,ISO2-digit Alpha,ISO3-digit Alpha,Start Valid Year,End Valid Year
+4,Afghanistan,Afghanistan,Afghanistan,NULL,AF,AFG,1962,2061
+472,"Africa CAMEU region, nes","Africa CAMEU region, not elsewhere specified","Africa CAMEU region, nes",NULL,NULL,NULL,1962,2004
+8,Albania,Albania,Albania,NULL,AL,ALB,1962,2061
+12,Algeria,Algeria,Algeria,NULL,DZ,DZA,1962,2061
+16,American Samoa,American Samoa,American Samoa,To be created by UNSD,NULL,ASM,1962,2061
+20,Andorra,Andorra,Andorra,NULL,AD,AND,1962,2061
+24,Angola,Angola,Angola,NULL,AO,AGO,1962,2061
+660,Anguilla,Anguilla,Anguilla,NULL,AI,AIA,1981,2061
+10,Antarctica,Antarctica,Antarctica,To be created by UNSD,NULL,ANT,1962,2061
+28,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,NULL,AG,ATG,1962,2061
+899,"Areas, nes","Areas, not elsewhere specified","Areas, nes",NULL,NULL,NULL,1962,2061
+32,Argentina,Argentina,Argentina,NULL,AR,ARG,1962,2061
+51,Armenia,Armenia,Armenia,NULL,AM,ARM,1992,2061
+533,Aruba,Aruba,Aruba,NULL,AB,ARB,1988,2061
+36,Australia,Australia,Australia,NULL,AU,AUS,1962,2061
+40,Austria,Austria,Austria,NULL,AT,AUT,1962,2061
+31,Azerbaijan,Azerbaijan,Azerbaijan,NULL,AZ,AZE,1992,2061
+44,Bahamas,Bahamas,Bahamas,NULL,BS,BHS,1962,2061
+48,Bahrain,Bahrain,Bahrain,NULL,BH,BHR,1962,2061
+50,Bangladesh,Bangladesh,Bangladesh,NULL,BD,BGD,1972,2061
+52,Barbados,Barbados,Barbados,NULL,BB,BRB,1962,2061
+112,Belarus,Belarus,Belarus,NULL,BY,BLR,1992,2061
+56,Belgium,Belgium,Belgium,NULL,BE,BEL,1999,2061
+58,Belgium-Luxembourg,Belgium-Luxembourg,Belgium-Luxembourg,NULL,BE,BEL,1962,1998
+84,Belize,Belize,Belize,NULL,BZ,BLZ,1962,2061
+204,Benin,Benin,Benin,NULL,BJ,BEN,1962,2061
+60,Bermuda,Bermuda,Bermuda,NULL,BM,BMU,1962,2061
+64,Bhutan,Bhutan,Bhutan,NULL,BT,BTN,1962,2061
+68,Bolivia,Bolivia,Bolivia,NULL,BO,BOL,1962,2061
+70,Bosnia Herzegovina,Bosnia Herzegovina,Bosnia Herzegovina,NULL,BA,BIH,1992,2061
+72,Botswana,Botswana,Botswana,NULL,BW,BWA,2000,2061
+74,Bouvet Island,Ile Bouvet  ,Bouvet Island  ,NULL,NULL,BVT,1962,2061
+80,Br. Antarctic Terr.,British Antarctic Territories,Br. Antarctic Terr.,NULL,NULL,NULL,1962,2061
+86,Br. Indian Ocean Terr.,British Indian Ocean Territories,Br. Indian Ocean Terr.,NULL,IO,IOT,1962,2061
+92,Br. Virgin Isds,British Virgin Islands,Br. Virgin Isds,NULL,VG,VGB,1962,2061
+76,Brazil,Brazil,Brazil,NULL,BR,BRA,1962,2061
+96,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,NULL,BN,BRN,1962,2061
+100,Bulgaria,Bulgaria,Bulgaria,NULL,BG,BGR,1962,2061
+837,Bunkers,Bunkers,Bunkers,NULL,NULL,NULL,1962,2061
+854,Burkina Faso,Burkina Faso,Burkina Faso,NULL,BF,BFA,1962,2061
+108,Burundi,Burundi,Burundi,NULL,BI,BDI,1962,2061
+471,"CACM, nes","CACM, not elsewhere specified","CACM, nes",NULL,NULL,NULL,1962,2004
+116,Cambodia,Cambodia,Cambodia,NULL,KH,KHM,1962,2061
+120,Cameroon,Cameroon,Cameroon,NULL,CM,CMR,1962,2061
+124,Canada,Canada,Canada,NULL,CA,CAN,1962,2061
+132,Cape Verde,Cape Verde,Cape Verde,NULL,CV,CPV,1962,2061
+129,"Caribbean, nes","Caribbean, not elsewhere specified","Caribbean, nes",NULL,NULL,NULL,1962,2004
+136,Cayman Isds,Cayman Islands,Cayman Isds,NULL,KY,CYM,1962,2061
+140,Central African Rep.,Central African Republic,Central African Rep.,NULL,CF,CAF,1962,2061
+148,Chad,Chad,Chad,NULL,TD,TCD,1962,2061
+152,Chile,Chile,Chile,NULL,CL,CHL,1962,2061
+156,China,China,China,NULL,CN,CHN,1962,2061
+344,"China, Hong Kong SAR","China, Hong Kong Special Administrative Region","China, Hong Kong SAR",NULL,HK,HKG,1962,2061
+446,"China, Macao SAR","China, Macao Special Administrative Region","China, Macao SAR",NULL,MO,MAC,1962,2061
+162,Christmas Isds,Christmas Islands,Christmas Isds,NULL,CX,CXR,1962,2061
+166,Cocos Isds,Cocos Islands,Cocos Isds,NULL,CC,CCK,1962,2061
+170,Colombia,Colombia,Colombia,NULL,CO,COL,1962,2061
+174,Comoros,Comoros,Comoros,NULL,KM,COM,1962,2061
+178,Congo,Congo,Congo,NULL,CG,COG,1962,2061
+184,Cook Isds,Cook Islands,Cook Isds,NULL,CK,COK,1962,2061
+188,Costa Rica,Costa Rica,Costa Rica,NULL,CR,CRI,1962,2061
+384,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,NULL,CI,CIV,1962,2061
+191,Croatia,Croatia,Croatia,NULL,HR,HRV,1992,2061
+192,Cuba,Cuba,Cuba,NULL,CU,CUB,1962,2061
+196,Cyprus,Cyprus,Cyprus,NULL,CY,CYP,1962,2061
+203,Czech Rep.,Czech Republic,Czech Rep.,NULL,CZ,CZE,1993,2061
+200,Czechoslovakia,Czechoslovakia,Czechoslovakia,NULL,CS,CSK,1962,1992
+408,Dem. People's Rep. of Korea,Democratic People's Republic of Korea,Dem. People's Rep. of Korea,NULL,KP,PRK,1962,2061
+180,Dem. Rep. of the Congo,Democratic Republic of the Congo,Dem. Rep. of the Congo,NULL,CD,COD,1962,2061
+208,Denmark,Denmark,Denmark,NULL,DK,DNK,1962,2061
+262,Djibouti,Djibouti,Djibouti,NULL,DJ,DJI,1962,2061
+212,Dominica,Dominica,Dominica,NULL,DM,DMA,1962,2061
+214,Dominican Rep.,Dominican Republic,Dominican Rep.,NULL,DO,DOM,1962,2061
+588,East and West Pakistan,East and West Pakistan,East and West Pakistan,NULL,PK,PAK,1962,1971
+221,"Eastern Europe, nes","Eastern Europe, not elsewhere specified","Eastern Europe, nes",NULL,NULL,NULL,1962,2004
+218,Ecuador,Ecuador,Ecuador,NULL,EC,ECU,1962,2061
+818,Egypt,Egypt,Egypt,NULL,EG,EGY,1962,2061
+222,El Salvador,El Salvador,El Salvador,NULL,SV,SLV,1962,2061
+226,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,NULL,GQ,GNQ,1962,2061
+232,Eritrea,Eritrea,Eritrea,NULL,ER,ERI,1993,2061
+233,Estonia,Estonia,Estonia,NULL,EE,EST,1992,2061
+231,Ethiopia,Ethiopia,Ethiopia,NULL,ET,ETH,1993,2061
+97,EU-27,EU-27,EU-27,NULL,EU,EU2,1962,1962
+697,"Europe EFTA, nes","Europe EFTA, not elsewhere specified","Europe EFTA, nes",NULL,NULL,NULL,1962,2004
+492,"Europe EU, nes","Europe EU, not elsewhere specified","Europe EU, nes",NULL,NULL,NULL,NULL,NULL
+234,Faeroe Isds,Faeroe Islands,Faeroe Isds,NULL,FO,FRO,1962,2061
+238,Falkland Isds (Malvinas),Falkland Islands (Malvinas),Falkland Isds (Malvinas),NULL,FK,FLK,1962,2061
+242,Fiji,Fiji,Fiji,NULL,FJ,FJI,1962,2061
+246,Finland,Finland,Finland,NULL,FI,FIN,1962,2061
+886,Fmr Arab Rep. of Yemen,Former Arab Republic of Yemen,Fmr Arab Rep. of Yemen,NULL,YE,YEM,1962,1990
+278,Fmr Dem. Rep. of Germany,Former Democratic Republic of Germany,Fmr Dem. Rep. of Germany,NULL,DD,DDR,1962,1990
+866,Fmr Dem. Rep. of Vietnam,Former Democratic Republic of Vietnam,Fmr Dem. Rep. of Vietnam,NULL,VD,VDR,1962,1974
+720,Fmr Dem. Yemen,Former Democratic Yemen,Fmr Dem. Yemen,NULL,YD,YMD,1962,1990
+230,Fmr Ethiopia,Former Ethiopia,Fmr Ethiopia,NULL,ET,ETH,1962,1992
+280,Fmr Fed. Rep. of Germany,Former Federal Republic of Germany,Fmr Fed. Rep. of Germany,NULL,DE,DEU,1962,1990
+582,Fmr Pacific Isds,Former Pacific Islands,Fmr Pacific Isds,NULL,PC,PCI,1962,1991
+590,"Fmr Panama, excl.Canal Zone","Former Panama, excluding Canal Zone","Fmr Panama, excl.Canal Zone",NULL,PA,PAN,1962,1977
+592,Fmr Panama-Canal-Zone,Former Panama-Canal-Zone,Fmr Panama-Canal-Zone,NULL,PZ,PCZ,1962,1977
+868,Fmr Rep. of Vietnam,Former Republic of Vietnam,Fmr Rep. of Vietnam,NULL,VN,VNM,1962,1974
+717,Fmr Rhodesia Nyas,Former Rhodesia Nyas,Fmr Rhodesia Nyas,NULL,NULL,NULL,1962,1964
+835,Fmr Tanganyika,Former Tanganyika,Fmr Tanganyika,NULL,NULL,NULL,1962,1964
+810,Fmr USSR,Former USSR,Fmr USSR,NULL,SU,SUN,1962,1991
+890,Fmr Yugoslavia,Former Yugoslavia,Fmr Yugoslavia,In 1992 including TFYR of Macedonia,YU,YUG,1962,1991
+836,Fmr Zanzibar and Pemba Isd,Former Zanzibar and Pemba Island,Fmr Zanzibar and Pemba Isd,NULL,NULL,NULL,1962,1964
+260,Fr. South Antarctic Terr.,French South Antarctic Territories,Fr. South Antarctic Terr.,NULL,FQ,ATF,1962,2061
+251,France,"France, Monaco",France,Including Monaco,FR,FRA,1962,2061
+838,Free Zones,Free Zones,Free Zones,NULL,NULL,NULL,1962,2061
+254,French Guiana,French Guiana,French Guiana,NULL,GF,GUF,1962,1995
+258,French Polynesia,French Polynesia,French Polynesia,NULL,PF,PYF,1962,2061
+583,FS Micronesia,Federated State of Micronesia,Micronesia,NULL,FM,FSM,1992,2061
+266,Gabon,Gabon,Gabon,NULL,GA,GAB,1962,2061
+270,Gambia,Gambia,Gambia,NULL,GM,GMB,1962,2061
+268,Georgia,Georgia,Georgia,NULL,GE,GEO,1992,2061
+276,Germany,Germany,Germany,NULL,DE,DEU,1991,2061
+288,Ghana,Ghana,Ghana,NULL,GH,GHA,1962,2061
+292,Gibraltar,Gibraltar,Gibraltar,NULL,GI,GIB,1962,2061
+300,Greece,Greece,Greece,NULL,GR,GRC,1962,2061
+304,Greenland,Greenland,Greenland,NULL,GL,GRL,1962,2061
+308,Grenada,Grenada,Grenada,NULL,GD,GRD,1962,2061
+312,Guadeloupe,Guadeloupe,Guadeloupe,NULL,GP,GLP,1962,1995
+316,Guam,Guam,Guam,To be created by UNSD,NULL,GUM,1962,2061
+320,Guatemala,Guatemala,Guatemala,NULL,GT,GTM,1962,2061
+324,Guinea,Guinea,Guinea,NULL,GN,GIN,1962,2061
+624,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,NULL,GW,GNB,1962,2061
+328,Guyana,Guyana,Guyana,NULL,GY,GUY,1962,2061
+332,Haiti,Haiti,Haiti,NULL,HT,HTI,1962,2061
+334,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,To be created by UNSD,NULL,HMD,1962,2061
+336,Holy See (Vatican City State),Holy See (Vatican City State),Holy See (Vatican City State),,VA,VAT,2000,2061
+340,Honduras,Honduras,Honduras,NULL,HN,HND,1962,2061
+348,Hungary,Hungary,Hungary,NULL,HU,HUN,1962,2061
+352,Iceland,Iceland,Iceland,NULL,IS,ISL,1962,2061
+699,India,India,India,NULL,IN,IND,1975,2061
+356,"India, excl. Sikkim","India, excluding Sikkim","India, excl. Sikkim",NULL,IN,IND,1962,1974
+360,Indonesia,Indonesia,Indonesia,NULL,ID,IDN,1962,2061
+364,Iran,Iran,Iran,NULL,IR,IRN,1962,2061
+368,Iraq,Iraq,Iraq,NULL,IQ,IRQ,1962,2061
+372,Ireland,Ireland,Ireland,NULL,IE,IRL,1962,2061
+376,Israel,Israel,Israel,NULL,IL,ISR,1962,2061
+381,Italy,Italy,Italy,,IT,ITA,1962,2061
+388,Jamaica,Jamaica,Jamaica,NULL,JM,JAM,1962,2061
+392,Japan,Japan,Japan,NULL,JP,JPN,1962,2061
+400,Jordan,Jordan,Jordan,NULL,JO,JOR,1962,2061
+398,Kazakhstan,Kazakhstan,Kazakhstan,NULL,KZ,KAZ,1992,2061
+404,Kenya,Kenya,Kenya,NULL,KE,KEN,1962,2061
+296,Kiribati,Kiribati,Kiribati,NULL,KI,KIR,1962,2061
+414,Kuwait,Kuwait,Kuwait,NULL,KW,KWT,1962,2061
+417,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,NULL,KG,KGZ,1992,2061
+473,"LAIA, nes","LAIA, not elsewhere specified","LAIA, nes",NULL,NULL,NULL,1962,2061
+418,Lao People's Dem. Rep.,Lao People's Dem. Rep.,Lao People's Dem. Rep.,NULL,LA,LAO,1962,2061
+428,Latvia,Latvia,Latvia,NULL,LV,LVA,1992,2061
+422,Lebanon,Lebanon,Lebanon,NULL,LB,LBN,1962,2061
+426,Lesotho,Lesotho,Lesotho,NULL,LS,LSO,2000,2061
+430,Liberia,Liberia,Liberia,NULL,LR,LBR,1962,2061
+434,Libya,Libya,Libya,NULL,LY,LBY,1962,2061
+440,Lithuania,Lithuania,Lithuania,NULL,LT,LTU,1992,2061
+442,Luxembourg,Luxembourg,Luxembourg,NULL,LU,LUX,1999,2061
+450,Madagascar,Madagascar,Madagascar,NULL,MG,MDG,1962,2061
+454,Malawi,Malawi,Malawi,NULL,MW,MWI,1965,2061
+458,Malaysia,Malaysia,Malaysia,NULL,MY,MYS,1964,2061
+462,Maldives,Maldives,Maldives,NULL,MV,MDV,1962,2061
+466,Mali,Mali,Mali,NULL,ML,MLI,1962,2061
+470,Malta,Malta,Malta,NULL,MT,MLT,1962,2061
+584,Marshall Isds,Marshall Islands,Marshall Isds,NULL,MH,MHL,1992,2061
+474,Martinique,Martinique,Martinique,NULL,MQ,MTQ,1962,1995
+478,Mauritania,Mauritania,Mauritania,NULL,MR,MRT,1962,2061
+480,Mauritius,Mauritius,Mauritius,NULL,MU,MUS,1962,2061
+175,Mayotte,Mayotte,Mayotte,NULL,YT,MYT,1962,2061
+484,Mexico,Mexico,Mexico,NULL,MX,MEX,1962,2061
+496,Mongolia,Mongolia,Mongolia,NULL,MN,MNG,1962,2061
+499,Montenegro,Montenegro,Montenegro,NULL,ME,MNE,2006,2061
+500,Montserrat,Montserrat,Montserrat,NULL,MS,MSR,1962,2061
+504,Morocco,Morocco,Morocco,NULL,MA,MAR,1962,2061
+508,Mozambique,Mozambique,Mozambique,NULL,MZ,MOZ,1962,2061
+104,Myanmar,Myanmar,Myanmar,NULL,MM,MMR,1962,2061
+580,N. Mariana Isds,Northern Mariana Islands,N. Mariana Isds,NULL,MP,MNP,1992,2061
+516,Namibia,Namibia,Namibia,NULL,NA,NAM,2000,2061
+520,Nauru,Nauru,Nauru,NULL,NR,NRU,1962,2061
+524,Nepal,Nepal,Nepal,NULL,NP,NPL,1962,2061
+530,Neth. Antilles,Netherlands Antilles,Neth. Antilles,NULL,AN,ANT,1988,2061
+532,Neth. Antilles and Aruba,Netherlands Antilles and Aruba,Neth. Antilles and Aruba,NULL,AN,ANT,1962,1987
+528,Netherlands,Netherlands,Netherlands,NULL,NL,NLD,1962,2061
+536,Neutral Zone,Neutral Zone,Neutral Zone,NULL,NULL,NULL,1962,2061
+540,New Caledonia,New Caledonia,New Caledonia,NULL,NC,NCL,1962,2061
+554,New Zealand,New Zealand,New Zealand,NULL,NZ,NZL,1962,2061
+558,Nicaragua,Nicaragua,Nicaragua,NULL,NI,NIC,1962,2061
+562,Niger,Niger,Niger,NULL,NE,NER,1962,2061
+566,Nigeria,Nigeria,Nigeria,NULL,NG,NGA,1962,2061
+570,Niue,Niue,Niue,NULL,NU,NIU,1962,2061
+574,Norfolk Isds,Norfolk Islands,Norfolk Isds,NULL,NF,NFK,1962,2061
+637,"North America and Central America, nes","North America, the Caribbean and Central America not elsewhere specified","North America, the Caribbean and Central America, nes",NULL,NULL,NULL,1962,2061
+290,"Northern Africa, nes","Northern Africa, not elsewhere specified","Northern Africa, nes",NULL,NULL,NULL,1962,2004
+579,Norway,"Norway, Svalbard and Jan Mayen",Norway,Including Svalbard and Jan Mayen,NO,NOR,1962,2061
+275,Occ. Palestinian Terr.,Occupied Palestinian Territory,Occ. Palestinian Terr.,NULL,PS,PSE,2000,2061
+527,"Oceania, nes","Oceania, not elsewhere specified","Oceania, nes",NULL,NULL,NULL,1962,2061
+512,Oman,Oman,Oman,NULL,OM,OMN,1962,2061
+577,"Other Africa, nes","Other Africa, not elsewhere specified","Other Africa, nes",NULL,NULL,NULL,1962,2061
+490,"Other Asia, nes","Other Asia, not elsewhere specified","Other Asia, nes",NULL,NULL,NULL,1962,2061
+568,"Other Europe, nes","Other Europe, not elsewhere specified","Other Europe, nes",NULL,NULL,NULL,1962,2061
+586,Pakistan,Pakistan,Pakistan,NULL,PK,PAK,1972,2061
+585,Palau,Palau,Palau,NULL,PW,PLW,1992,2061
+591,Panama,Panama,Panama,NULL,PA,PAN,1978,2061
+598,Papua New Guinea,Papua New Guinea,Papua New Guinea,NULL,PG,PNG,1962,2061
+600,Paraguay,Paraguay,Paraguay,NULL,PY,PRY,1962,2061
+459,Peninsula Malaysia,Peninsula Malaysia,Peninsula Malaysia,NULL,NULL,NULL,1962,1963
+604,Peru,Peru,Peru,NULL,PE,PER,1962,2061
+608,Philippines,Philippines,Philippines,NULL,PH,PHL,1962,2061
+612,Pitcairn,Pitcairn,Pitcairn,NULL,PN,PCN,1962,2061
+616,Poland,Poland,Poland,NULL,PL,POL,1962,2061
+620,Portugal,Portugal,Portugal,NULL,PT,PRT,1962,2061
+634,Qatar,Qatar,Qatar,NULL,QA,QAT,1962,2061
+410,Rep. of Korea,Republic of Korea,Rep. of Korea,NULL,KR,KOR,1962,2061
+498,Rep. of Moldova,Republic of Moldova,Rep. of Moldova,NULL,MD,MDA,1992,2061
+636,"Rest of America, nes","Rest of America, not elsewhere specified","Rest of America, nes",NULL,NULL,NULL,1962,2004
+638,Réunion,Réunion,Réunion,NULL,RE,REU,1962,1995
+642,Romania,Romania,Romania,NULL,RO,ROM,1962,2061
+643,Russian Federation,Russian Federation,Russian Federation,NULL,RU,RUS,1992,2061
+646,Rwanda,Rwanda,Rwanda,NULL,RW,RWA,1962,2061
+647,Ryukyu Isd,Ryukyu Island,Ryukyu Isd,NULL,NULL,NULL,1962,1972
+461,Sabah,Sabah,Sabah,NULL,NULL,NULL,1962,1963
+654,Saint Helena,Saint Helena,Saint Helena,NULL,SH,SHN,1962,2061
+659,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,NULL,KN,KNA,1981,2061
+658,"Saint Kitts, Nevis and Anguilla","Saint Kitts, Nevis and Anguilla","Saint Kitts, Nevis and Anguilla",NULL,KN,KNA,1962,1980
+662,Saint Lucia,Saint Lucia,Saint Lucia,NULL,LC,LCA,1962,2061
+666,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,NULL,PM,SPM,1962,2061
+670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,NULL,VC,VCT,1962,2061
+882,Samoa,Samoa,Samoa,NULL,WS,WSM,1962,2061
+674,San Marino,San Marino,San Marino,,SM,SMR,2000,2061
+678,Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,NULL,ST,STP,1962,2061
+457,Sarawak,Sarawak,Sarawak,NULL,NULL,NULL,1962,1963
+682,Saudi Arabia,Saudi Arabia,Saudi Arabia,NULL,SA,SAU,1962,2061
+686,Senegal,Senegal,Senegal,NULL,SN,SEN,1962,2061
+688,Serbia,Serbia,Serbia,NULL,RS,SRB,2006,2061
+891,Serbia and Montenegro,Serbia and Montenegro,Serbia and Montenegro,NULL,CS,SCG,1992,2005
+690,Seychelles,Seychelles,Seychelles,NULL,SC,SYC,1962,2061
+694,Sierra Leone,Sierra Leone,Sierra Leone,NULL,SL,SLE,1962,2061
+698,Sikkim,Sikkim,Sikkim,NULL,NULL,NULL,1962,1974
+702,Singapore,Singapore,Singapore,NULL,SG,SGP,1962,2061
+703,Slovakia,Slovakia,Slovakia,NULL,SK,SVK,1993,2061
+705,Slovenia,Slovenia,Slovenia,NULL,SI,SVN,1992,2061
+711,So. African Customs Union,Southern African Customs Union,So. African Customs Union,NULL,ZA,ZAF,1962,1999
+90,Solomon Isds,Solomon Islands,Solomon Isds,NULL,SB,SLB,1962,2061
+706,Somalia,Somalia,Somalia,NULL,SO,SOM,1962,2061
+710,South Africa,South Africa,South Africa,NULL,ZA,ZAF,2000,2061
+239,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,NULL,NULL,SGS,1962,2061
+724,Spain,Spain,Spain,NULL,ES,ESP,1962,2061
+839,Special Categories,Special Categories,Special Categories,NULL,NULL,NULL,1962,2061
+144,Sri Lanka,Sri Lanka,Sri Lanka,NULL,LK,LKA,1962,2061
+736,Sudan,Sudan,Sudan,NULL,SD,SDN,1962,2061
+740,Suriname,Suriname,Suriname,NULL,SR,SUR,1962,2061
+748,Swaziland,Swaziland,Swaziland,NULL,SZ,SWZ,2000,2061
+752,Sweden,Sweden,Sweden,NULL,SE,SWE,1962,2061
+757,Switzerland,"Switzerland, Liechtenstein",Switzerland,Liechtenstein,CH,CHE,1962,2061
+760,Syria,Syria,Syria,NULL,SY,SYR,1962,2061
+762,Tajikistan,Tajikistan,Tajikistan,NULL,TJ,TJK,1992,2061
+807,TFYR of Macedonia,The Former Yugoslav Republic of Macedonia,TFYR of Macedonia,NULL,MK,MKD,1993,2061
+764,Thailand,Thailand,Thailand,NULL,TH,THA,1962,2061
+626,Timor-Leste,Timor-Leste,Timor-Leste,NULL,TP,TMP,1962,2061
+768,Togo,Togo,Togo,NULL,TG,TGO,1962,2061
+772,Tokelau,Tokelau,Tokelau,NULL,TK,TKL,1962,2061
+776,Tonga,Tonga,Tonga,NULL,TO,TON,1962,2061
+780,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,NULL,TT,TTO,1962,2061
+788,Tunisia,Tunisia,Tunisia,NULL,TN,TUN,1962,2061
+792,Turkey,Turkey,Turkey,NULL,TR,TUR,1962,2061
+795,Turkmenistan,Turkmenistan,Turkmenistan,NULL,TM,TKM,1992,2061
+796,Turks and Caicos Isds,Turks and Caicos Islands,Turks and Caicos Isds,NULL,TC,TCA,1962,2061
+798,Tuvalu,Tuvalu,Tuvalu,NULL,TV,TUV,1962,2061
+800,Uganda,Uganda,Uganda,NULL,UG,UGA,1962,2061
+804,Ukraine,Ukraine,Ukraine,NULL,UA,UKR,1992,2061
+784,United Arab Emirates,United Arab Emirates,United Arab Emirates,NULL,AE,ARE,1962,2061
+826,United Kingdom,United Kingdom,United Kingdom,NULL,GB,GBR,1962,2061
+834,United Rep. of Tanzania,United Republic of Tanzania,United Rep. of Tanzania,NULL,TZ,TZA,1965,2061
+581,United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI,1962,2061
+858,Uruguay,Uruguay,Uruguay,NULL,UY,URY,1962,2061
+849,US Misc. Pacific Isds,US Miscellaneous Pacific Islands,US Misc. Pacific Isds,NULL,NULL,NULL,1962,1962
+850,US Virgin Isds,US Virgin Islands,US Virgin Isds,NULL,VI,VIR,1962,1980
+842,USA,"USA, Puerto Rico and US Virgin Islands",USA,Including Puerto Rico and US Virgin Islands,US,USA,1981,2061
+841,USA (before 1981),USA and Puerto Rico,USA (before 1981),Including Puerto Rico,US,USA,1962,1980
+860,Uzbekistan,Uzbekistan,Uzbekistan,NULL,UZ,UZB,1992,2061
+548,Vanuatu,Vanuatu,Vanuatu,NULL,VU,VUT,1962,2061
+862,Venezuela,Venezuela,Venezuela,NULL,VE,VEN,1962,2061
+704,Viet Nam,Viet Nam,Viet Nam,NULL,VN,VNM,1975,2061
+876,Wallis and Futuna Isds,Wallis and Futuna Islands,Wallis and Futuna Isds,NULL,WF,WLF,1962,2061
+879,"Western Asia, nes","Western Asia, not elsewhere specified","Western Asia, nes",NULL,NULL,NULL,1962,2004
+732,Western Sahara,Western Sahara,Western Sahara,NULL,EH,ESH,1962,2061
+0,World,World,World,NULL,WL,WLD,1962,2061
+887,Yemen,Yemen,Yemen,NULL,YE,YEM,1991,2061
+894,Zambia,Zambia,Zambia,NULL,ZM,ZMB,1965,2061
+716,Zimbabwe,Zimbabwe,Zimbabwe,NULL,ZW,ZWE,1965,2061

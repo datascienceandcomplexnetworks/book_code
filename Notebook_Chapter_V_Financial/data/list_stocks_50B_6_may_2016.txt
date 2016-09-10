@@ -1,0 +1,120 @@
+MMM	3M Company	Health Care	Medical/Dental Instruments	
+ABT	Abbott Laboratories	Health Care	Major Pharmaceuticals	
+ABBV	AbbVie Inc.	Health Care	Major Pharmaceuticals	
+ACN	Accenture plc.	Miscellaneous	Business Services	
+AEB	Aegon NV	Finance	Life Insurance	
+AED	Aegon NV	Finance	Life Insurance	
+AEK	Aegon NV	Finance	Life Insurance	
+BABA	Alibaba Group Holding Limited	Miscellaneous	Business Services	
+MO	Altria Group	Consumer Non-Durables	Farming/Seeds/Milling	
+ABEV	Ambev S.A.	Consumer Non-Durables	Beverages (Production/Distribution)	
+AXP	American Express Company	Finance	Finance: Consumer Services	
+AIG	American International Grou	n/a	Finance	
+BUD	Anheuser-Busch Inbev SA	Consumer Non-Durables	Beverages (Production/Distribution)	
+AZN	Astrazeneca PLC	Health Care	Major Pharmaceuticals	
+T	AT&T Inc.	Public Utilities	Telecommunications Equipment	
+SAN	Banco Santande	n/a	n/a	
+BAC	Bank of America Corporation	Finance	Major Banks	
+BNS	Bank of Nova Scotia (The)	Finance	Major Banks	
+BCS	Barclays PLC	Finance	Commercial Banks	
+BHP	BHP Billiton Limited	Basic Industries	Precious Metals	
+BBL	BHP Billiton plc	Energy	Coal Mining	
+BLK	BlackRoc	1999	Finance	
+BA	Boeing Company (The)	Capital Goods	Aerospace	
+BP	BP p.l.c.	Energy	Integrated oil Companies	
+BMY	Bristol-Myers Squibb Company	Health Care	Major Pharmaceuticals	
+BT	BT Group plc	Public Utilities	Telecommunications Equipment	
+CX	Cemex S.A.B. de C.V.	Capital Goods	Building Materials	
+CVX	Chevron Corporation	Energy	Integrated oil Companies	
+LFC	China Life Insurance Company Limited	Finance	Life Insurance	
+CHL	China Mobile (Hong Kong) Ltd.	Public Utilities	Telecommunications Equipment	
+SNP	China Petroleum & Chemical Corporation	Energy	Integrated oil Companies	
+C	Citigroup Inc.	Finance	Major Banks	
+CEO	CNOOC Limited	Energy	Oil & Gas Production	
+KO	Coca-Cola Company (The)	Consumer Non-Durables	Beverages (Production/Distribution)	
+CL	Colgate-Palmolive Company	Consumer Non-Durables	Package Goods/Cosmetics	
+CCV	Comcast Corporation	Consumer Services	Television Services	
+COP	ConocoPhillips	Energy	Integrated oil Companies	
+CVS	CVS Health Corporation	Health Care	Medical/Nursing Services	
+DHR	Danaher Corporation	Capital Goods	Industrial Machinery/Components	
+DEO	Diageo plc	Consumer Non-Durables	Beverages (Production/Distribution)	
+DOW	Dow Chemical Company (The)	Basic Industries	Major Chemicals	
+DUK	Duke Energy Corporation	Public Utilities	Power Generation	
+DD	E.I. du Pont de Nemours and Company	Basic Industries	Major Chemicals	
+LLY	Eli Lilly and Company	Health Care	Major Pharmaceuticals	
+EMC	EMC Corporation	Technology	Electronic Components	
+E	ENI S.p.A.	Energy	Oil & Gas Production	
+EPD	Enterprise Products Partners L.P.	Public Utilities	Natural Gas Distribution	
+XOM	Exxon Mobil Corporation	Energy	Integrated oil Companies	
+F	Ford Motor Company	Capital Goods	Auto Manufacturing	
+GE	General Electric Company	Energy	Consumer Electronics/Appliances	
+GSK	GlaxoSmithKline PLC	Health Care	Major Pharmaceuticals	
+GS	Goldman Sachs Grou	1999	Finance	
+TV	Grupo Televisa S.A.	Consumer Services	Broadcasting	
+HDB	HDFC Bank Limited	Finance	Commercial Banks	
+HD	Home Depo	n/a	Consumer Services	
+HON	Honeywell International Inc.	Capital Goods	Auto Parts:O.E.M.	
+HSBC	HSBC Holdings plc	n/a	n/a	
+HSEA	HSBC Holdings plc	n/a	n/a	
+HSEB	HSBC Holdings plc	n/a	n/a	
+INZ	ING Grou	n/a	Finance	
+ISF	ING Grou	n/a	Finance	
+IBM	International Business Machines Corporation	Technology	Computer Manufacturing	
+ITUB	Itau Unibanco Banco Holding SA	Finance	Major Banks	
+JPM	J P Morgan Chase & Co	Finance	Major Banks	
+JNJ	Johnson & Johnson	Health Care	Major Pharmaceuticals	
+LYG	Lloyds Banking Group Plc	Finance	Commercial Banks	
+LMT	Lockheed Martin Corporation	Capital Goods	Military/Government/Technical	
+LOW	Lowe&#39;s Companie	n/a	Consumer Services	
+MA	Mastercard Incorporated	Miscellaneous	Business Services	
+MCD	McDonald&#39;s Corporation	Consumer Services	Restaurants	
+MDT	Medtroni	n/a	Health Care	
+MRK	Merck & Compan	n/a	Health Care	
+MTU	Mitsubishi UFJ Financial Group Inc	Finance	Commercial Banks	
+MS	Morgan Stanley	Finance	Investment Bankers/Brokers/Service	
+NGG	National Grid Transc	n/a	Public Utilities	
+NEE	NextEra Energ	n/a	Public Utilities	
+NKE	Nik	n/a	Consumer Non-Durables	
+NTT	Nippon Telegraph and Telephone Corporation	Public Utilities	Telecommunications Equipment	
+NVS	Novartis AG	Health Care	Major Pharmaceuticals	
+NVO	Novo Nordisk A/S	Health Care	Major Pharmaceuticals	
+DCM	NTT DOCOM	n/a	Technology	
+OXY	Occidental Petroleum Corporation	Energy	Oil & Gas Production	
+ORCL	Oracle Corporation	Technology	Computer Software: Prepackaged Software	
+PEP	Pepsic	n/a	Consumer Non-Durables	
+PTR	PetroChina Company Limited	Energy	Oil & Gas Production	
+PFE	Pfize	n/a	Health Care	
+PM	Philip Morris International Inc	Consumer Non-Durables	Farming/Seeds/Milling	
+PG	Procter & Gamble Company (The)	Basic Industries	Package Goods/Cosmetics	
+RAI	Reynolds American Inc	Consumer Non-Durables	Farming/Seeds/Milling	
+RIO	Rio Tinto Plc	Basic Industries	Precious Metals	
+RY	Royal Bank Of Canada	Finance	Commercial Banks	
+SNY	Sanofi	Health Care	Major Pharmaceuticals	
+SAP	SAP SE	Technology	Computer Software: Prepackaged Software	
+SLB	Schlumberger N.V.	Energy	Oilfield Services/Equipment	
+SPG	Simon Property Grou	n/a	Consumer Services	
+STO	Statoil ASA	Energy	Integrated oil Companies	
+TSM	Taiwan Semiconductor Manufacturing Company Ltd.	Technology	Semiconductors	
+TEF	Telefonica SA	Public Utilities	Telecommunications Equipment	
+TMO	Thermo Fisher Scientific Inc	Capital Goods	Industrial Machinery/Components	
+TWC	Time Warner Cable Inc	Consumer Services	Television Services	
+TWX	Time Warner Inc.	Consumer Services	Television Services	
+TJX	TJX Companie	n/a	Consumer Services	
+TD	Toronto Dominion Bank (The)	Finance	Commercial Banks	
+TOT	TotalFinaEl	n/a	Energy	
+TM	Toyota Motor Corp Ltd Ord	Capital Goods	Auto Manufacturing	
+USB	U.S. Bancorp	Finance	Major Banks	
+UBS	UBS AG	Finance	Major Banks	
+UN	Unilever NV	Basic Industries	Package Goods/Cosmetics	
+UL	Unilever PLC	Basic Industries	Package Goods/Cosmetics	
+UNP	Union Pacific Corporation	Transportation	Railroads	
+UPS	United Parcel Servic	1999	Transportation	
+UTX	United Technologies Corporation	Capital Goods	Aerospace	
+UNH	UnitedHealth Group Incorporated	Health Care	Medical Specialities	
+VZ	Verizon Communications Inc.	Public Utilities	Telecommunications Equipment	
+VZA	Verizon Communications Inc.	Public Utilities	Telecommunications Equipment	
+V	Visa Inc.	Miscellaneous	Business Services	
+WMT	Wal-Mart Store	n/a	Consumer Services	
+DIS	Walt Disney Company (The)	Consumer Services	Television Services	
+WFC	Wells Fargo & Company	Finance	Major Banks	
+WBK	Westpac Banking Corporation	Finance	Commercial Banks	
